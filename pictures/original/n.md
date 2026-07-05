@@ -3,4 +3,4 @@ year:
 author: 
 ---
 # N
-![Starsaligned.jpeg](/original/Starsaligned.jpeg)
+![Sinu darling .jpeg](/original/Sinu darling .jpeg)
