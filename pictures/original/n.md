@@ -3,4 +3,4 @@ year:
 author: 
 ---
 # N
-![Shades.jpeg](/original/Shades.jpeg)
+![Starsaligned.jpeg](/original/Starsaligned.jpeg)
