@@ -3,4 +3,4 @@ year:
 author: 
 ---
 # J
-![Lookedforu.jpeg](/original/Lookedforu.jpeg)
+![Kumari.jpeg](/original/Kumari.jpeg)
