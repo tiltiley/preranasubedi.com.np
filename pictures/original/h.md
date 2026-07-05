@@ -3,4 +3,4 @@ year:
 author: 
 ---
 # H
-![Chhoru.png](/original/Chhoru.png)
+![Nou.jpeg](/original/Nou.jpeg)
