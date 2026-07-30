@@ -3,4 +3,4 @@ year:
 author: 
 ---
 # O
-![Gym.jpeg](/original/Gym.jpeg)
+![Phidim.jpeg](/original/Phidim.jpeg)
